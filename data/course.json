@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Society",
+      "African American Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a3f3c444-4db2-4fa5-a3f3-5efd7f6a2a28"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f18e2f7b-7f02-478d-9a94-c5fb682d815e",
+    "website": "21l004-reading-poetry-social-poetics"
+  },
+  "course_title": "Reading Poetry: Social Poetics",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "The central concern of this class is the historical relationship between the social lives of everyday people and U.S. American poetics, with a special emphasis on what June Jordan once termed the \u201cdifficult miracle of Black poetry in America.\u201d How does poetry help us to know one another? And how might we better understand the particular role of poetry, of poiesis, for those historically barred from the very practice of reading or writing, from ownership (even of one\u2019s own body), and various generally recognized forms of belonging? For this course, these will be some of our animating questions.",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.004",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "21l004-reading-poetry-social-poetics"
+  },
+  "learning_resource_types": [
+    "Readings",
+    "Written Assignments",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "d46ea089-596d-461d-95ef-d1be6122f1d6",
+  "site_short_id": "21l.004-spring-2023",
+  "site_url_path": "courses/21l-004-reading-poetry-social-poetics-spring-2023"
+}
