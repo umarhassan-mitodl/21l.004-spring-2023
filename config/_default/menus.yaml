@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 5e0a281c-7603-4fde-9df3-2c7d6be64eca
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e9bde13e-674b-4fa1-bfb9-6acd06b9c49a
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 9fca5516-76d8-40a7-be9c-8a601b0b5903
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 2c4907ee-b91e-4fa4-b231-5e079a471143
+  name: Midterm and Final Assignments
+  pageRef: /pages/midterm
+  weight: 40
